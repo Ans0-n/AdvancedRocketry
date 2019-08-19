@@ -76,3 +76,4 @@ Future Features:
    - Rockets require life support
    - Space ships require stasis chamber and must be provided with food (unless warp)  -  tranz9999
    - Heat system for machines and plasma engine
+   -Other changes
